@@ -51,7 +51,7 @@ plot_sankey <- sankeyNetwork(
   fontSize = 12,
   nodeWidth = 70
 )
-saveWidget(plot_sankey, "sankey_diagram.html")
+saveWidget(plot_sankey, "stem_fair_2025_plot_sankey.html")
 
 # Strip concerns and solutions ---------------------------
 df_concerns <- df %>%
