@@ -7,4 +7,4 @@ To learn more about the University of Belize Environmental Research Institute, n
 
 ## Authors:
 Jessica C. Boles, Data Scientist, University of Belize Environmental Research Institute\
-Elias Alamina, Student, University of Belize\
+Elias Alamina, Student, University of Belize
