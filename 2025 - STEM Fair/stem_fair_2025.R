@@ -16,7 +16,10 @@ palette <- c(
   "#E22828", "coral", "#eeeec2", "violet", "#a5652a", "#d6fdfd",
   "#fcfc00", "#b69efa", "#ffecc8", "#3b3ba5"
 )
-my_theme <- theme(axis.title = element_text(size = 16), axis.text  = element_text(size = 13))
+my_theme <- theme(
+  axis.title = element_text(size = 16), axis.text  = element_text(size = 12.5),
+  legend.title = element_text(size = 16), legend.text  = element_text(size = 13)
+  )
 
 # Load data ---------------------------
 df = read.csv("2025 11 14 - Environmental Solutions - UB STEM Fair.csv")
